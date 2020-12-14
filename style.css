@@ -2,8 +2,18 @@ body{
     background-color: gray;
 }
 
-.navbar-nav {
+a {
     float: right;
+}
+
+.navbar-brand {
+    font-size: xx-large;
+    font-weight: bold;
+    background-color: turquoise;
+}
+
+navbar-nav {
+    justify-content: right;
 }
 
 .container{
