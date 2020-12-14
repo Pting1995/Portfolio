@@ -15,8 +15,12 @@ h2 {
     color: turquoise;
 }
 
-img{
+img {
     float: left;
     margin: 10px;
 }
 
+.btn {
+    background-color: turquoise;
+    margin: 10px;
+}
