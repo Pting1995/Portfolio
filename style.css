@@ -2,8 +2,12 @@ body{
     background-color: gray;
 }
 
-h1 {
+a {
     background-color: turquoise;
+}
+
+.navbar-nav {
+    float: right;
 }
 
 .container{
