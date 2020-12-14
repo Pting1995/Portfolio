@@ -2,10 +2,6 @@ body{
     background-color: gray;
 }
 
-a {
-    background-color: turquoise;
-}
-
 .navbar-nav {
     float: right;
 }
