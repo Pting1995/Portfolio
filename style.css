@@ -5,7 +5,7 @@ body{
 a {
     float: right;
 }
-
+/* my name */
 .navbar-brand {
     font-size: x-large;
     font-weight: bold;
@@ -20,16 +20,19 @@ navbar-nav {
     margin-top: 10px;
 }
 
+/* page title */
 h2 {
     font-size: xx-large;
     color: turquoise;
 }
 
+/* forces image to the left so text will wrap around it */
 img {
     float: left;
     margin: 10px;
 }
 
+/* submit button for contact.html */
 .btn {
     background-color: turquoise;
     margin: 10px;
