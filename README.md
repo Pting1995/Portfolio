@@ -1,8 +1,8 @@
 # Portfolio Project Alpha
 
-![About me](final_pictures/index.png)
-![Portfolio](final_pictures/portfolio.png)
-![Contact me](final_pictures/contact.png)
+![About me](final_pictures/index.PNG)
+![Portfolio](final_pictures/portfolio.PNG)
+![Contact me](final_pictures/contact.PNG)
 
 This site was made to showcase me! At the top of the page there is a navigation bar that allows you to switch between the About me page, the Portfolio page and the Contact me page. If you don't see it please click the button in the top right and a drop down menu will appear! All three pages will adjust to the size of the window dynamically. All of the pictures and images are placeholders but will be updated! This site was started with its navigation bar and its container, since all three htmls share them for consistency. The navigation bar was remade later to fit styling preferences. The About me page showcases text wrapping next to a picture and columns, while the Contact me page has a short survey. The portfolio page has seven images that will react to how big your screen is and will fit more pictures on it if it can. Try it! 
 
